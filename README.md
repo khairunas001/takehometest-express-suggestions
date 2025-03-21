@@ -102,6 +102,7 @@ PASS  tests/suggestions.test.js
 - **Khairunas Rhamadhani Wiasanto**  
 - [GitHub](https://github.com/khairunas001)  
 - [LinkedIn](https://www.linkedin.com/in/khairunas-rhamadhani-wiasanto-2186481b9/)  
+- [Documentation](https://documenter.getpostman.com/view/31399628/2sAYkGLeXq)  
 
 ---
 
