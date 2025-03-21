@@ -99,9 +99,9 @@ PASS  tests/suggestions.test.js
 
 ## 👤 Author
 
-- **Your Name**  
-- [GitHub](https://github.com/yourusername)  
-- [LinkedIn](https://linkedin.com/in/yourname)  
+- **Khairunas Rhamadhani Wiasanto**  
+- [GitHub](https://github.com/khairunas001)  
+- [LinkedIn](https://www.linkedin.com/in/khairunas-rhamadhani-wiasanto-2186481b9/)  
 
 ---
 
